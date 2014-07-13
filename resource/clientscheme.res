@@ -2494,6 +2494,60 @@ Scheme
 			}
 		}
 
+		Walkway42
+		{
+			"1"
+			{
+				"name"		"Walkway rounded"
+				"tall"		"42"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Walkway48
+		{
+			"1"
+			{
+				"name"		"Walkway rounded"
+				"tall"		"48"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Walkway52
+		{
+			"1"
+			{
+				"name"		"Walkway rounded"
+				"tall"		"52"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Walkway56
+		{
+			"1"
+			{
+				"name"		"Walkway rounded"
+				"tall"		"56"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+        Pixel16
+		{
+			"1"
+			{
+				"name"		"04B 30"
+				"tall"		"16"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
 	}
 	
 	// Custom Fonts
@@ -4406,5 +4460,10 @@ Scheme
 		{
 			"font" "resource/fonts/Walkway rounded.ttf"
 			"name" "Walkway rounded"
+	}
+		"8"
+		{
+			"font" "resource/fonts/04B_30__.ttf"
+			"name" "04B 30"
 	}
 }
