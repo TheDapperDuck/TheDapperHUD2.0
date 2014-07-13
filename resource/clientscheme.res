@@ -2548,6 +2548,17 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
+		Pixel52
+		{
+			"1"
+			{
+				"name"		"04B 30"
+				"tall"		"52"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
 	}
 	
 	// Custom Fonts
